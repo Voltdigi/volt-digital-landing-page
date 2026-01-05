@@ -33,9 +33,6 @@ export default function Hero() {
                   →
                 </span>
               </button>
-              <button className="btn-outline">
-                View Case Studies
-              </button>
             </div>
 
           </div>

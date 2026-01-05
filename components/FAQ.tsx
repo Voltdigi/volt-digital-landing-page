@@ -10,32 +10,32 @@ export default function FAQ() {
     {
       question: "How much do your services cost?",
       answer:
-        "Our pricing is transparent and customized based on your specific needs. We offer services ranging from $500/month for basic services to custom packages for larger initiatives. We&apos;ll provide a detailed quote after understanding your goals and current situation.",
+        "Our pricing is transparent and customized based on your specific needs. We offer services ranging from $500/month for basic services to custom packages for larger initiatives. We'll provide a detailed quote after understanding your goals and current situation.",
     },
     {
-      question: "What&apos;s the typical timeline to see results?",
+      question: "What's the typical timeline to see results?",
       answer:
-        "Most clients see initial improvements within 4-8 weeks, with significant results becoming evident within 3-6 months. The timeline depends on your specific goals and which services you choose. We&apos;ll set realistic expectations during your consultation.",
+        "Most clients see initial improvements within 4-8 weeks, with significant results becoming evident within 2-4 months. The timeline depends on your specific goals and which services you choose. We'll set realistic expectations during your consultation.",
     },
     {
       question: "Do you work with businesses in my industry?",
       answer:
-        "We work with small businesses across various industries—from e-commerce and professional services to local businesses and startups. Our strategies are customized to fit your industry&apos;s unique challenges and opportunities.",
+        "We work with small businesses across various industries—from e-commerce and professional services to local businesses and startups. Our strategies are customized to fit your industry's unique challenges and opportunities.",
     },
     {
-      question: "What if I&apos;m not tech-savvy?",
+      question: "What if I'm not tech-savvy?",
       answer:
-        "You don&apos;t need to be! That&apos;s exactly why we&apos;re here. We handle all the technical details and keep you updated in plain English. We also provide training and education so you understand what we&apos;re doing with your business.",
+        "You don't need to be! That's exactly why we're here. We handle all the technical details and keep you updated in plain English. We also provide training and education so you understand what we're doing with your business.",
     },
     {
       question: "How do you measure success?",
       answer:
-        "We measure success based on your business goals—whether that&apos;s leads, sales, website traffic, or brand awareness. We provide monthly reports with clear metrics, and we adjust our strategy based on what&apos;s working.",
+        "We measure success based on your business goals—whether that's leads, sales, website traffic, or brand awareness. We provide monthly reports with clear metrics, and we adjust our strategy based on what's working.",
     },
     {
       question: "What makes Volt Digital different?",
       answer:
-        "We focus on small businesses specifically, with transparent pricing, dedicated account managers, and proven results. We&apos;re not just a vendor—we&apos;re a partner in your growth. Our success is measured by your success.",
+        "We focus on small businesses specifically, with transparent pricing, dedicated account managers, and proven results. We're not just a vendor—we're a partner in your growth. Our success is measured by your success.",
     },
     {
       question: "Can I cancel anytime?",
